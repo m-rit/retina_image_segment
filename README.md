@@ -7,5 +7,5 @@ Here CNN based segemntation of Fundus Images is done to get the hard exudates fo
 
 8 layer CNN was made to classify central pixel of image patches and the finally the patch classifiers were put together.
 
-![alt text](http://home/aman/btp_ritu)
+![alt text](/home/aman/btp_ritu)
 
