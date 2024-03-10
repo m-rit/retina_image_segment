@@ -1,4 +1,4 @@
-# retina_image_segment
+## Retina Image Segmentation
 
 Here CNN based segemntation of Fundus Images is done to get the hard exudates for detection of diabetic retinopathy. The dataset used is IDRiD containing 81 fundus images.
 
